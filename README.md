@@ -37,4 +37,4 @@ The core logic revolves around a two-array dictionary system and dynamic buffer 
 - Enzo Ferreira de Andrade
 - Gabriel Valieri
 
-- **Developed as a practical exercise in String Manipulation and Algorithmic Logic.**
+ **Developed as a practical exercise in String Manipulation and Algorithmic Logic.**
